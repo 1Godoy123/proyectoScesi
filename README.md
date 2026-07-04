@@ -35,3 +35,5 @@ SCESI es un sistema backend para gestionar el ingreso y salida de estudiantes me
 ---
 
 ## 📁 Estructura del Proyecto
+<img width="462" height="688" alt="image" src="https://github.com/user-attachments/assets/a42c4e46-9f25-4ec6-b1cf-84001aab3c6e" />
+
